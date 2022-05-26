@@ -1,0 +1,21 @@
+.col {
+    max-width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.char {
+    max-width: 200px;
+    height: 75px;
+    background-color: white;
+}
+
+#newGame {
+    max-width: 200px;
+    height: 35px;
+}
+
+#board{
+    margin-left: 35%;
+}
+
