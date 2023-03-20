@@ -137,6 +137,7 @@
 ////////////////////////////////////////////////////////// --Computer Player-- ////////////////////
 console.log('THIS IS THE ONLY CHANGE');
 console.log('ANOTHER CHANGE');
+console.log('and another');
 let space1 = document.querySelector('#one');
 let space2 = document.querySelector('#two');
 let space3 = document.querySelector('#three');
